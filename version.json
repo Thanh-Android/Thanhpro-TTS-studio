@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "release_notes": "- Thêm tính năng mới\n- Sửa lỗi giao diện",
+  "version": "1.0.1",
+  "release_date": "24/10/2023",
+  "release_notes": "- Nâng cấp hệ thống tách âm AI.\n- Sửa lỗi giao diện và tối ưu tốc độ lồng tiếng.",
   "download_url": "https://github.com/Thanh-Android/Thanhpro-TTS-studio/download/v1.1.0/app_v1.1.0.exe"
-}
